@@ -2,5 +2,5 @@
   "name": "Up Coin",
   "symbol": "UP",
   "description": "This coin will up, because this coin name is up",
-  "image": "YOUR_LOGO_IMAGE_PUBLIC_URL"
+  "image": "https://raw.githubusercontent.com/chrisSixSixSix/POI/refs/heads/master/logo.png"
 }
